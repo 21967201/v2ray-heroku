@@ -9,7 +9,7 @@
     "loglevel": "warning"
   },
   "inbound": {
-    "port": 1081,
+    "port": 1080,
     "listen": "127.0.0.1",
     "protocol": "socks",
     "domainOverride": ["tls","http"],
