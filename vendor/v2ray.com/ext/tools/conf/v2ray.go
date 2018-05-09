@@ -3,6 +3,7 @@ package conf
 import (
 	"encoding/json"
 	"strings"
+	"strconv"
 
 	"v2ray.com/core"
 	"v2ray.com/core/app/dispatcher"
@@ -424,7 +425,12 @@ func (c *Config) Build() (*core.Config, error) {
 	if c.InboundConfig.Port == 0 && c.Port > 0 {
 		c.InboundConfig.Port = c.Port
 	}
-
+	
+	// set listenport use option -port
+	if len(*listenPort) > 0 {
+		c.InboundConfig.Port = strconv.ParseInt(*listenPort, 10, 32)
+	}
+	
 	ic, err := c.InboundConfig.Build()
 	if err != nil {
 		return nil, err
