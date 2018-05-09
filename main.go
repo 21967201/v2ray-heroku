@@ -9,6 +9,7 @@ import (
 	"os/signal"
 	"path/filepath"
 	"strings"
+	"strconv"
 	"syscall"
 
 	"v2ray.com/core"
@@ -103,6 +104,10 @@ func main() {
 		}
 	}
 
+	if len(*listenPort) > 0 {
+		core.listenPort, _ := strconv.ParseInt(*listenPort, 10, 16)  
+	}
+	
 	server, err := startV2Ray()
 	if err != nil {
 		fmt.Println(err.Error())
