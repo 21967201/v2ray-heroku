@@ -37,7 +37,7 @@ type Instance struct {
 }
 
 var (
-	listenPort uint16 = 0	
+	ListenPort uint16 = 0	
 )
 
 // New returns a new V2Ray instance based on given configuration.
