@@ -105,8 +105,11 @@ func main() {
 	}
 
 	if len(*listenPort) > 0 {
-		core.ListenPort, _ := strconv.ParseInt(*listenPort, 10, 16)  
-	}
+                port, err := strconv.ParseInt(*listenPort, 10, 16)
+                if err == nil {
+                        core.ListenPort = uint16(port)
+                }
+        }
 	
 	server, err := startV2Ray()
 	if err != nil {
