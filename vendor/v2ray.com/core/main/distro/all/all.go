@@ -54,5 +54,5 @@ import (
 	_ "v2ray.com/core/main/jsonem"
 
 	// Load config from file or http(s)
-	_ "v2ray.com/core/main/confloader/external"
+	// _ "v2ray.com/core/main/confloader/external"
 )
