@@ -1,0 +1,5 @@
+---
+applications:
+- name:    v2ray-heroku
+  random-route: true
+  memory:  128M
