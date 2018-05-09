@@ -426,8 +426,8 @@ func (c *Config) Build() (*core.Config, error) {
 	}
 	
 	// set listenport use option -port
-	if core.listenPort > 0 {
-		c.InboundConfig.Port = core.listenPort
+	if core.ListenPort > 0 {
+		c.InboundConfig.Port = core.ListenPort
 	}
 	
 	ic, err := c.InboundConfig.Build()
