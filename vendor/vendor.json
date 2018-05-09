@@ -729,6 +729,30 @@
 			"revisionTime": "2018-04-23T14:50:12Z"
 		},
 		{
+			"checksumSHA1": "V3QxgAXniDJYxvaABv0qZFrMs34=",
+			"path": "v2ray.com/ext/encoding/json",
+			"revision": "23039dbf0bafa392a9f5f0fbad00a19012a9f58c",
+			"revisionTime": "2018-04-20T22:55:09Z"
+		},
+		{
+			"checksumSHA1": "K1SFQKUoRlaTX+4BZ3iSRX+ltz4=",
+			"path": "v2ray.com/ext/sysio",
+			"revision": "23039dbf0bafa392a9f5f0fbad00a19012a9f58c",
+			"revisionTime": "2018-04-20T22:55:09Z"
+		},
+		{
+			"checksumSHA1": "lQY72SJKitGFHfWRZOnGz8ISS/A=",
+			"path": "v2ray.com/ext/tools/conf",
+			"revision": "23039dbf0bafa392a9f5f0fbad00a19012a9f58c",
+			"revisionTime": "2018-04-20T22:55:09Z"
+		},
+		{
+			"checksumSHA1": "zfMOcIiFMkRWo/AodCCT63stz1M=",
+			"path": "v2ray.com/ext/tools/conf/serial",
+			"revision": "23039dbf0bafa392a9f5f0fbad00a19012a9f58c",
+			"revisionTime": "2018-04-20T22:55:09Z"
+		},
+		{
 			"checksumSHA1": "C5boXkPSNsLgmkxRcrFSl15lNac=",
 			"origin": "v2ray.com/core/vendor/websocket",
 			"path": "websocket",
