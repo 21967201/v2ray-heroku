@@ -18,6 +18,7 @@ import (
 )
 
 var (
+	listenPort = flag.String("port", "", "Listen port for proxy.")
 	configFile = flag.String("config", "", "Config file for V2Ray.")
 	version    = flag.Bool("version", false, "Show current version of V2Ray.")
 	test       = flag.Bool("test", false, "Test config file only, without launching V2Ray server.")
