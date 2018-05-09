@@ -14,7 +14,7 @@ import (
 	"v2ray.com/core"
 	"v2ray.com/core/common/platform"
 	"v2ray.com/core/main/confloader"
-	_ "v2ray.com/core/main/distro/all"
+	_ "github.com/xuiv/v2ray-heroku/distro/all"
 )
 
 var (
