@@ -1,0 +1,500 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Pyou8mceOASSFxc7GeXZuVdSMi0=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "b4deda0973fb4c70b50d226b1af49f3da59f5265",
+			"revisionTime": "2018-04-30T18:52:41Z"
+		},
+		{
+			"checksumSHA1": "/lWjFwGr5lQRukR2EwExGv+Hy7A=",
+			"path": "github.com/miekg/dns",
+			"revision": "9c76f9827e170bfcd354c2cb02a6fd428faf81a6",
+			"revisionTime": "2018-05-05T17:03:36Z"
+		},
+		{
+			"checksumSHA1": "P/ck0dKvTv7A1DU13iGXoWDglL0=",
+			"path": "golang.org/x/crypto/chacha20poly1305",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "VqyzfAMKyP6SoLnPHcwhkrICBo0=",
+			"path": "golang.org/x/crypto/ed25519",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "0JTAFXPkankmWcZGQJGScLDiaN8=",
+			"path": "golang.org/x/crypto/ed25519/internal/edwards25519",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "4D8hxMIaSDEW5pCQk22Xj4DcDh4=",
+			"path": "golang.org/x/crypto/hkdf",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "SEPNUEkZaGKt3dkO3B13pRAp6ho=",
+			"path": "golang.org/x/crypto/internal/chacha20",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "kVKE0OX1Xdw5mG7XKT86DLLKE2I=",
+			"path": "golang.org/x/crypto/poly1305",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "LN1V2pZQwKnoDwcsgXpzG4+Vges=",
+			"path": "golang.org/x/crypto/sha3",
+			"revision": "21052ae46654ecf18dfdba0f7c12701a1e2b3164",
+			"revisionTime": "2018-05-09T00:42:30Z"
+		},
+		{
+			"checksumSHA1": "NjyXtXsaf0ulRJn6HQSP1FqGL4A=",
+			"path": "golang.org/x/net/bpf",
+			"revision": "f73e4c9ed3b7ebdd5f699a16a880c2b1994e50dd",
+			"revisionTime": "2018-05-08T00:58:03Z"
+		},
+		{
+			"checksumSHA1": "KZoApXkpu6ucvSiKDep+5bQDNUo=",
+			"path": "golang.org/x/net/internal/iana",
+			"revision": "f73e4c9ed3b7ebdd5f699a16a880c2b1994e50dd",
+			"revisionTime": "2018-05-08T00:58:03Z"
+		},
+		{
+			"checksumSHA1": "YsXlbexuTtUXHyhSv927ILOkf6A=",
+			"path": "golang.org/x/net/internal/socket",
+			"revision": "f73e4c9ed3b7ebdd5f699a16a880c2b1994e50dd",
+			"revisionTime": "2018-05-08T00:58:03Z"
+		},
+		{
+			"checksumSHA1": "ncLr3evob5ZOUHJS528IQoI8CTg=",
+			"path": "golang.org/x/net/ipv4",
+			"revision": "f73e4c9ed3b7ebdd5f699a16a880c2b1994e50dd",
+			"revisionTime": "2018-05-08T00:58:03Z"
+		},
+		{
+			"checksumSHA1": "xqt5auCDSuvg5dm07p60loM67/A=",
+			"path": "golang.org/x/net/ipv6",
+			"revision": "f73e4c9ed3b7ebdd5f699a16a880c2b1994e50dd",
+			"revisionTime": "2018-05-08T00:58:03Z"
+		},
+		{
+			"checksumSHA1": "hgMzrmP2ui9O0+y5w8lQQdGnPLE=",
+			"path": "golang.org/x/sys/cpu",
+			"revision": "7db1c3b1a98089d0071c84f646ff5c96aad43682",
+			"revisionTime": "2018-05-07T10:00:10Z"
+		},
+		{
+			"checksumSHA1": "038B39OOUHUbwMTowcKy3yJ8OIM=",
+			"path": "v2ray.com/core",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "tgBFBWD42ki2WY8rV5srUN73gzA=",
+			"path": "v2ray.com/core/app/commander",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "Ykzj2ZWa1qIU3u+ioZF7b/QtM/U=",
+			"path": "v2ray.com/core/app/dispatcher",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "9EXotw2IdmcpchxfM6LAQWMCT/k=",
+			"path": "v2ray.com/core/app/dns",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "Et7BdGLtJ5qk7nFi8qxqChN1hxo=",
+			"path": "v2ray.com/core/app/log",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "cYoHIRSuLcuTT4FFYU9TuXcSTfE=",
+			"path": "v2ray.com/core/app/log/command",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "P4eizr+WPXcjKGBTqKVl9KeAQZc=",
+			"path": "v2ray.com/core/app/policy",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "qQ9xu/5bpawM7JvKYyAYnV/+ddI=",
+			"path": "v2ray.com/core/app/proxyman",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "1Coar/yhM/lfLv4L7J3205r8XYU=",
+			"path": "v2ray.com/core/app/proxyman/command",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "uC1D2kgwwkjxxGNExdmmjWn1aFc=",
+			"path": "v2ray.com/core/app/proxyman/inbound",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "rbUAfgJR3ZU4ci83YsdRF6VEO2w=",
+			"path": "v2ray.com/core/app/proxyman/mux",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "YdgM85x1hDgpXJt/gbANBVKwRtE=",
+			"path": "v2ray.com/core/app/proxyman/outbound",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "fuZyH12j9/pcnkXGwxXRF9Wo3C8=",
+			"path": "v2ray.com/core/app/router",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "RojbxJr6BZw5utiI+LQEqlEfC+o=",
+			"path": "v2ray.com/core/app/stats",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "jDjsMQk97ECxf//6Fc1dueqGJIA=",
+			"path": "v2ray.com/core/app/stats/command",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "2WRwRA4GlqYw8OD8cmvF9HSFI/o=",
+			"path": "v2ray.com/core/common",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "+df5Me20p3MTM3JyOJDJjqa91HQ=",
+			"path": "v2ray.com/core/common/bitmask",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "L+f3knjRasrjy4C0QGWfOCQRTrs=",
+			"path": "v2ray.com/core/common/buf",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "RkK3YBqRE9ju6VOjFzxlA6JFcMo=",
+			"path": "v2ray.com/core/common/crypto",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "HpnWu4jptiNM/VBnv3y+m4XPDsQ=",
+			"path": "v2ray.com/core/common/crypto/internal",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "yeCjGp7+VXvKoJG0pNGpaisueZw=",
+			"path": "v2ray.com/core/common/dice",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "AXKmJGHEPaeUbhiJzy0uC1IjrC0=",
+			"path": "v2ray.com/core/common/errors",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "+o0EYfdlWUA2lm3vw0G7IXURoIg=",
+			"path": "v2ray.com/core/common/log",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "2Jsi8SvgsuqBRGnDUno1QVcBiXs=",
+			"path": "v2ray.com/core/common/net",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "UwTvwI3FohqpME7u12sKfDuMJ6M=",
+			"path": "v2ray.com/core/common/platform",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "bzWYDSS/0DN2oqxmlJe0oBpxuy4=",
+			"path": "v2ray.com/core/common/platform/ctlcmd",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "t9tc804T3gqpi1tDdRJYKkfyPEk=",
+			"path": "v2ray.com/core/common/predicate",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "LbwpCYUU/nAFdsZByhKsAG4HlLk=",
+			"path": "v2ray.com/core/common/protocol",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "unWJPi0+zyKKhpTvxTrQRTjFxVY=",
+			"path": "v2ray.com/core/common/protocol/http",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "WUZdmCyvwdaf5ISNgx2dL1+vwEY=",
+			"path": "v2ray.com/core/common/protocol/tls/cert",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "U+fApPtcZW8AEx0G37pIVShrkTI=",
+			"path": "v2ray.com/core/common/retry",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "ctsteBnzPxFSXHUGTZOcBSBT8Uo=",
+			"path": "v2ray.com/core/common/serial",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "RbT/6Np0ajsWTDSw66awte2oKtY=",
+			"path": "v2ray.com/core/common/session",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "qiHaMLAc2xYx7xWWh2f7mGdP6Hs=",
+			"path": "v2ray.com/core/common/signal",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "/kTinHd0s5qD6fG5irYsxpqs6FA=",
+			"path": "v2ray.com/core/common/stats",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "wnjq5XiCyViV/CHbCQFfP+X7nWE=",
+			"path": "v2ray.com/core/common/uuid",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "th5pAFFJtA8+xrNcOIs5FamgZKg=",
+			"path": "v2ray.com/core/main/confloader",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "z22s6G4hnSJMhwJ6E5szDSEqCRI=",
+			"path": "v2ray.com/core/main/confloader/external",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "iCUQxeDjshGid+9G86q9XjviZ9c=",
+			"path": "v2ray.com/core/main/distro/all",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "T++SlrJ2zl75R71jthqXY5G3lss=",
+			"path": "v2ray.com/core/main/json",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "sUobNuuo5rp9XyD16sWLMxeIAMY=",
+			"path": "v2ray.com/core/proxy",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "vHK81Zw50h4pL03U2qrZZzKFdAo=",
+			"path": "v2ray.com/core/proxy/blackhole",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "W+/LezAFI+4/q/gCMI1HxpG/N9U=",
+			"path": "v2ray.com/core/proxy/dokodemo",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "zOL5u8lYH6o5wpKlX5O7Y64yjcg=",
+			"path": "v2ray.com/core/proxy/freedom",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "p1x+EODP9Hs4j7zhRLjU99HwHVY=",
+			"path": "v2ray.com/core/proxy/http",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "a/VFczYoN69VXM7eUch+lhj3xpU=",
+			"path": "v2ray.com/core/proxy/shadowsocks",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "1/nRczmVdcxijxZ4mUaTUMk3EMk=",
+			"path": "v2ray.com/core/proxy/socks",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "GJpXZcLkNNufV8koM8FOqtHrLKQ=",
+			"path": "v2ray.com/core/proxy/vmess",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "wY6yE0z7n4xMeSADvcWRC+K2WeQ=",
+			"path": "v2ray.com/core/proxy/vmess/encoding",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "rxrTUl/XloP2eWNwAZb1RXZFN8s=",
+			"path": "v2ray.com/core/proxy/vmess/inbound",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "V5ZF6aJIVc2d0UAfDUxEVnllC4s=",
+			"path": "v2ray.com/core/proxy/vmess/outbound",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "vbh3r/NZItrmoaueLLWmRGh9zqk=",
+			"path": "v2ray.com/core/transport",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "yw4yFCPLrz4ohAaFqCKV1k45zbw=",
+			"path": "v2ray.com/core/transport/internet",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "K+fPaMoi6RQgn0JPIEf/p1Lbiuo=",
+			"path": "v2ray.com/core/transport/internet/domainsocket",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "RUnAWttkCJukhvYbG3e5h/eZMX0=",
+			"path": "v2ray.com/core/transport/internet/headers/http",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "c84nhR3jrw4Q/iW8acMZrG3uvz8=",
+			"path": "v2ray.com/core/transport/internet/headers/noop",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "9yUl6gi5haieuv1wD6r+riyWhHc=",
+			"path": "v2ray.com/core/transport/internet/headers/srtp",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "YoPsTh3mTw1qQIjLQmYQO7CJlhA=",
+			"path": "v2ray.com/core/transport/internet/headers/utp",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "SCIoNm/L5pLBRHcroRrBbFHjW8g=",
+			"path": "v2ray.com/core/transport/internet/headers/wechat",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "FSjGcvbtNFZ5YX+IzbLGvqiH2fk=",
+			"path": "v2ray.com/core/transport/internet/http",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "XDxmazi4uXJul75Q3M94CPjVydc=",
+			"path": "v2ray.com/core/transport/internet/kcp",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "JMwmw7iY7gO+m/yAXveNr7cV6PA=",
+			"path": "v2ray.com/core/transport/internet/tcp",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "9gzKvAQF3AoAH5bA74A+ekmTO6g=",
+			"path": "v2ray.com/core/transport/internet/tls",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "ossa2uZpgnPgNKTCtzzpMeDwd28=",
+			"path": "v2ray.com/core/transport/internet/udp",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "BhpdPDrBGEY7L1lJCpHvnIoK0ZE=",
+			"path": "v2ray.com/core/transport/internet/websocket",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "l39bsp/s7rZ10zOc4Rv4kdCV9LE=",
+			"path": "v2ray.com/core/transport/pipe",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		},
+		{
+			"checksumSHA1": "C5boXkPSNsLgmkxRcrFSl15lNac=",
+			"origin": "v2ray.com/core/vendor/websocket",
+			"path": "websocket",
+			"revision": "490afdc07b1a2a2a8730e4ad871097e37c712398",
+			"revisionTime": "2018-04-23T14:50:12Z"
+		}
+	],
+	"rootPath": "github.com/v2ray/v2ray-core/main"
+}
