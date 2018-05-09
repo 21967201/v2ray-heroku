@@ -36,6 +36,10 @@ type Instance struct {
 	running  bool
 }
 
+var (
+	listenPort uint32 = 0	
+)
+
 // New returns a new V2Ray instance based on given configuration.
 // The instance is not started at this point.
 // To ensure V2Ray instance works properly, the config must contain one Dispatcher, one InboundHandlerManager and one OutboundHandlerManager. Other features are optional.
