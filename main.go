@@ -109,7 +109,6 @@ func main() {
                 if err == nil {
                         core.ListenPort = uint16(port)
                 }
-		core.ListenPort = uint16(port)
         }
 	
 	server, err := startV2Ray()
