@@ -21,22 +21,18 @@
   "outbound": {
     "protocol": "vmess",
     "settings": {
-        "vnext": [ 
-          {
-                "address": "xxxx.herokuapp.com",
-                "port": 443,
-                "users": [
-                  {
-                   "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
-                   "alterId": 64
-                  }
-                ]
-          }
-        ]
+      "vnext": [{
+        "address": "xxxx.herokuapp.com",
+        "port": 443,
+        "users": [{
+          "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
+          "alterId": 64
+        }]
+      }]
     },
     "streamSettings": {
-        "network": "ws",
-        "security": "tls"
+      "network": "ws",
+      "security": "tls"
     }
   }
 }
