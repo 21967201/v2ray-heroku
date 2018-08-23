@@ -23,9 +23,9 @@
     "settings": {
       "vnext": [{
         "address": "v2-aoxuanheng.herokuapp.com",
-        "port": 443,
+        "port": 51993,
         "users": [{
-          "id": "a9c8f63f-08a1-460b-8286-3830e0eac453",
+          "id": "04669961-193a-48c9-9993-55fe10f10bbe",
           "alterId": 64
         }]
       }]
