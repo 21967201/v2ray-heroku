@@ -22,7 +22,7 @@
     "protocol": "vmess",
     "settings": {
       "vnext": [{
-        "address": "v2-aoxuanheng.herokuapp.com",
+        "address": "aoxuanheng.herokuapp.com",
         "port": 32000,
         "users": [{
           "id": "04669961-193a-48c9-9993-55fe10f10bbe",
